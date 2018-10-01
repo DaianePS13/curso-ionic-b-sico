@@ -1,0 +1,7 @@
+{
+  "name": "Impacta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
